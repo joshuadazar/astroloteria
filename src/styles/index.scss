@@ -1,0 +1,14 @@
+@import './utils/index.scss';
+@import './components/index.scss';
+
+body {
+  font-family: $Roboto;
+  flex-direction: column;
+  display: flex;
+  height: 100vh;
+
+}
+
+main {
+  flex: 1 0 auto;
+}
